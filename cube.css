@@ -1,0 +1,10 @@
+
+#upperFace {
+	// Размеры прямоугольника	
+	width:50%; 
+	height:50%;
+	// Положение на окне
+	position: fixed;
+	top: 50%;
+	left: 50%;	
+}
